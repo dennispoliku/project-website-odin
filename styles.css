@@ -1,0 +1,37 @@
+body{
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.section1-container{
+  background-color: #1F2937;
+  padding: 1px;
+}
+
+.awesometext{
+  color: #F9FAF8;
+  font-size: 48px;
+  font-weight: bold;
+}
+
+.headerlink1,
+.headerlink2,
+.headerlink3,
+.headerlogo {
+  color: #E5E7EB;
+  font-size: 18px;
+}
+
+.headerlogo{
+  color: #F9FAF8;
+  font-size: 24px;
+}
+
+.paragraphawesome{
+  color:white;
+}
+
+.buttonawesome{
+  background-color: #3882F6;
+  color: white;
+}
